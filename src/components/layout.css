@@ -6,10 +6,11 @@ html {
   overflow-y: scroll;
 }
 body {
+  padding-bottom: 240px;
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: hsla(0, 0%, 0%, 0.8);
+  color: #FFF;
   font-family: georgia, serif;
   font-weight: normal;
   word-wrap: break-word;
@@ -18,7 +19,9 @@ body {
   -ms-font-feature-settings: "kern", "liga", "clig", "calt";
   -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
   font-feature-settings: "kern", "liga", "clig", "calt";
+  background: #000;
 }
+
 article,
 aside,
 details,
@@ -85,7 +88,7 @@ h1 {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-weight: bold;
   text-rendering: optimizeLegibility;
-  font-size: 2.25rem;
+  font-size: 1.2rem;
   line-height: 1.1;
 }
 mark {
@@ -118,7 +121,6 @@ img {
   padding-left: 0;
   padding-right: 0;
   padding-top: 0;
-  margin-bottom: 1.45rem;
 }
 svg:not(:root) {
   overflow: hidden;
@@ -346,7 +348,6 @@ hgroup {
   margin-bottom: 1.45rem;
 }
 ul {
-  margin-left: 1.45rem;
   margin-right: 0;
   margin-top: 0;
   padding-bottom: 0;

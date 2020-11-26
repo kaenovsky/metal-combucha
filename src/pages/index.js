@@ -1,21 +1,23 @@
 import React from "react"
-import { Link } from "gatsby"
+// import { Link } from "gatsby"
 
 import Layout from "../components/layout"
-import Image from "../components/image"
 import SEO from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
-    </div>
-    <Link to="/page-2/">Go to page 2</Link> <br />
-    <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
+    <SEO title="Home" />      
+      <h1 className='site-title-radio'>
+      <img className='x-index-cross' src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/cross.svg" alt='cross'></img>
+      Radio en vivo</h1>
+      <div class="video-container">
+        <iframe 
+          title='Odin Live Video Player'
+          src="https://www.youtube.com/embed/UzRhvMDRGfc"
+          frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
+      </div>      
   </Layout>
 )
 
