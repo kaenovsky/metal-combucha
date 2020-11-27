@@ -9,7 +9,7 @@ const IndexPage = () => (
     <SEO title="Home" />      
       <h1 className='site-title-radio'>
       <img className='x-index-cross' src="https://taberna-odin-bucket.eu-central-1.linodeobjects.com/cross.svg" alt='cross'></img>
-      Radio en vivo</h1>
+      Taberna Odin Live</h1>
       <div class="video-container">
         <iframe 
           title='Odin Live Video Player'

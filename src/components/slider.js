@@ -23,7 +23,7 @@ export default function SimpleSlider() {
             </iframe>
         </div>
         <div className='spotify-episodes'>
-        <iframe src="https://open.spotify.com/embed-podcast/episode/4Q8padropmMrcpVzIHeXnq"
+        <iframe src="https://open.spotify.com/embed-podcast/episode/1oawzIPIsjk7Bx8Gl9kLKN"
                 title="episode"
                 height="232" 
                 frameborder="0" 
@@ -32,7 +32,88 @@ export default function SimpleSlider() {
             </iframe>
         </div>
         <div className='spotify-episodes'>
-        <iframe src="https://open.spotify.com/embed-podcast/episode/4Q8padropmMrcpVzIHeXnq"
+        <iframe src="https://open.spotify.com/embed-podcast/episode/5F2VLEkxtsLaDiAw93XAYK"
+                title="episode"
+                height="232" 
+                frameborder="0" 
+                allowtransparency="true" 
+                allow="encrypted-media">
+            </iframe>
+        </div>
+        <div className='spotify-episodes'>
+        <iframe src="https://open.spotify.com/embed-podcast/episode/21dhTj2wL0QWajzXcw3dBZ"
+                title="episode"
+                height="232" 
+                frameborder="0" 
+                allowtransparency="true" 
+                allow="encrypted-media">
+            </iframe>
+        </div>
+        <div className='spotify-episodes'>
+        <iframe src="https://open.spotify.com/embed-podcast/episode/6g0N8lJQqUYup6I0kNx3uB"
+                title="episode"
+                height="232" 
+                frameborder="0" 
+                allowtransparency="true" 
+                allow="encrypted-media">
+            </iframe>
+        </div>
+        <div className='spotify-episodes'>
+        <iframe src="https://open.spotify.com/embed-podcast/episode/40uE6ixSp7NP5GnxJJ2s1Y"
+                title="episode"
+                height="232" 
+                frameborder="0" 
+                allowtransparency="true" 
+                allow="encrypted-media">
+            </iframe>
+        </div>
+        <div className='spotify-episodes'>
+        <iframe src="https://open.spotify.com/embed-podcast/episode/7ew2TdPSiQ8lsDYcv1iT4m"
+                title="episode"
+                height="232" 
+                frameborder="0" 
+                allowtransparency="true" 
+                allow="encrypted-media">
+            </iframe>
+        </div>
+        <div className='spotify-episodes'>
+        <iframe src="https://open.spotify.com/embed-podcast/episode/1CYzY6vuEpj409sUvTo1wG"
+                title="episode"
+                height="232" 
+                frameborder="0" 
+                allowtransparency="true" 
+                allow="encrypted-media">
+            </iframe>
+        </div>
+        <div className='spotify-episodes'>
+        <iframe src="https://open.spotify.com/embed-podcast/episode/1TLafhvqJ4ODh0oq8Wmnb9"
+                title="episode"
+                height="232" 
+                frameborder="0" 
+                allowtransparency="true" 
+                allow="encrypted-media">
+            </iframe>
+        </div>
+        <div className='spotify-episodes'>
+        <iframe src="https://open.spotify.com/embed-podcast/episode/2JDhRJPGJPCFDbRNVuNBnC"
+                title="episode"
+                height="232" 
+                frameborder="0" 
+                allowtransparency="true" 
+                allow="encrypted-media">
+            </iframe>
+        </div>
+        <div className='spotify-episodes'>
+        <iframe src="https://open.spotify.com/embed-podcast/episode/4JZmJyFE5qjNWRUGCVdhVT"
+                title="episode"
+                height="232" 
+                frameborder="0" 
+                allowtransparency="true" 
+                allow="encrypted-media">
+            </iframe>
+        </div>
+        <div className='spotify-episodes'>
+        <iframe src="https://open.spotify.com/embed-podcast/episode/3wUQwJuTIygGJIzFBAkEPe"
                 title="episode"
                 height="232" 
                 frameborder="0" 

@@ -162,6 +162,14 @@ body {
   width: 89%;
 }
 
+.slick-prev {
+  left: -11px !important;
+}
+
+.slick-next {
+  right: -11px !important;
+}
+
 /* Social networks external links */
 
 .link-social-networks {
