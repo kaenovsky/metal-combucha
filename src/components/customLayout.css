@@ -29,6 +29,7 @@ body {
 .logo-wrapper {
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .logo-wrapper img {

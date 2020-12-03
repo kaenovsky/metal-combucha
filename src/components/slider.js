@@ -12,9 +12,18 @@ export default function SimpleSlider() {
       slidesToScroll: 1
     };
     return (
-      <Slider {...settings} className='slider-wrapper'>  
+      <Slider {...settings} className='slider-wrapper'>
         <div className='spotify-episodes'>
-        <iframe src="https://open.spotify.com/embed-podcast/episode/4Q8padropmMrcpVzIHeXnq"
+            <iframe src="https://open.spotify.com/embed-podcast/episode/7a9b4krvO8kzXz42cJ6Yc6"
+                title="episode"
+                height="232" 
+                frameborder="0" 
+                allowtransparency="true" 
+                allow="encrypted-media">
+            </iframe>
+        </div>  
+        <div className='spotify-episodes'>
+            <iframe src="https://open.spotify.com/embed-podcast/episode/4Q8padropmMrcpVzIHeXnq"
                 title="episode"
                 height="232" 
                 frameborder="0" 
