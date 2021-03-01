@@ -280,6 +280,7 @@ footer {
   .banner-web {
     max-width: 51em;
     height: 120px;
+    background: #F9BD16;
   }
 
   /* Podcasts web component (spotify audios) */
