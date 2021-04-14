@@ -13,7 +13,7 @@ const IndexPage = () => (
       <div class="video-container">
         <iframe 
           title='Odin Live Video Player'
-          src="https://www.youtube.com/embed/videoseries?list=PL-Zj37MYV3-xvQlGlpwvLjCzDXghEqpK6"
+          src="https://www.youtube.com/embed/yBDd1tPb_tQ"
           frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
           allowfullscreen>
         </iframe>
