@@ -4,7 +4,7 @@
 
 You can install the PWA with any Android or iOS device directly from you mobile web browser.
 
-![snapshot of the web app](./src/images/snapshot.png)
+<img src="./src/images/snapshot.png" width="220" alt="snapshot of the web app">
 
 ### Odin Live is a new online radio.
 
