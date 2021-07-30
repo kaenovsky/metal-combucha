@@ -13,8 +13,6 @@ import Header from "./header"
 import "./layout.css"
 import "./customLayout.css"
 import Footer from "./footer"
-import Grid from "./grid"
-import Banner from "./banner"
 import Podcasts from "./podcasts"
 import Slider from "./slider.js"
 import Social from "./social.js"
@@ -43,8 +41,6 @@ const Layout = ({ children }) => {
         >
           <main>{children}</main>        
         </div>
-        <Grid />
-        <Banner />
         <Podcasts />
         <Slider />
         <Social />
