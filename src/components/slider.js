@@ -23,6 +23,15 @@ export default function SimpleSlider() {
             </iframe>
         </div>
         <div className='spotify-episodes'>
+            <iframe src="https://open.spotify.com/embed-podcast/episode/1Z7f6IVBIMDCt41c3fpLi7"
+                title="episode"
+                height="232" 
+                frameborder="0" 
+                allowtransparency="true" 
+                allow="encrypted-media">
+            </iframe>
+        </div>    
+        <div className='spotify-episodes'>
             <iframe src="https://open.spotify.com/embed-podcast/episode/07aSz2t4ndjsjvJAUMAeNC"
                 title="episode"
                 height="232" 
@@ -58,15 +67,6 @@ export default function SimpleSlider() {
                 allow="encrypted-media">
             </iframe>
         </div>
-        <div className='spotify-episodes'>
-            <iframe src="https://open.spotify.com/embed-podcast/episode/5MM2RKeajDFqd8bDv6NF0W"
-                title="episode"
-                height="232" 
-                frameborder="0" 
-                allowtransparency="true" 
-                allow="encrypted-media">
-            </iframe>
-        </div>        
       </Slider>
     );
   }
