@@ -1,4 +1,4 @@
-# Taberna Odin Live: Hevay Metal Radio
+# Taberna Odin Live: Heavy Metal Radio
 
 **One page progressive web app made with Gatsby (React).**
 
