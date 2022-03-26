@@ -12,12 +12,10 @@ export default function SimpleSlider() {
     slidesToScroll: 1,
   }
   var episodesIds = [
-    "57uMLHgCu5TY9XgltKUggK",
-    "2XzsuktXELPmxCCF4tjniw",
-    "3bbYxUk7czx1nnywAUYkMt",
-    "0LPZayZYdzmwo6VZxzK4tV",
-    "2M3HEnbLd2ffZyVaFp8XLY",
-    "7IY7t83GOAVtoeP7UsoRka",
+    "7Fdx6U2vZ8qthPVGlczcej",
+    "0qe44PTlahrWhYQO0ZNdlt",
+    "32xgKH4ojANGLgqZNhuBdK",
+    "1N5JKhrhiLyh6r6zEGP2CL",
   ];
   return (
     <Slider {...settings} className="slider-wrapper">
