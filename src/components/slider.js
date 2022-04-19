@@ -12,10 +12,10 @@ export default function SimpleSlider() {
     slidesToScroll: 1,
   }
   var episodesIds = [
-    "7Fdx6U2vZ8qthPVGlczcej",
-    "0qe44PTlahrWhYQO0ZNdlt",
-    "32xgKH4ojANGLgqZNhuBdK",
-    "1N5JKhrhiLyh6r6zEGP2CL",
+    "0BUKFImoqhAZRkqbJ9Rmdf",
+    "6oKivQRgR7h6ktUua80Fnx",
+    "3xhzCLR7tv133LGqjVUq0a",
+    "22KfDD72Jx1T47EwgIg1vM",
   ];
   return (
     <Slider {...settings} className="slider-wrapper">
@@ -23,7 +23,7 @@ export default function SimpleSlider() {
         return (
           <div className="spotify-episodes">
             <iframe
-              src={`https://open.spotify.com/embed-podcast/episode/${episodeId}`}
+              src={`https://open.spotify.com/embed-podcast/episode/${episodeId}?utm_source=generator`}
               title="episode"
               height="232"
               frameborder="0"
